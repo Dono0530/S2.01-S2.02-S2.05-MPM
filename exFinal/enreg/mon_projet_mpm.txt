@@ -1,0 +1,10 @@
+Debut|0|5,375
+A|2|Debut|266,69
+B|4|Debut|486,171
+jesuisla|8|Debut|204,544
+C|3|A|247,408
+TEST|5|A|372,278
+D|2|B,TEST|515,276
+E|1|C,D|545,375
+Fin|E,jesuisla|725,375
+
