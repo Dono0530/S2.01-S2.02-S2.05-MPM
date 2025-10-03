@@ -1,4 +1,4 @@
-# Projet MPM (Métra Potentiels et antécédents)
+# Projet MPM
 
 ## IUT Le Havre - Département Informatique  
 Année 2024–2025  
